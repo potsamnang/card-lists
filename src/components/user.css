@@ -1,7 +1,6 @@
 .container {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  background-color: blueviolet;
   padding-top: 1rem;
   gap: 45px;
 }
