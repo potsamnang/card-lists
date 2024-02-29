@@ -1,0 +1,35 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+
+  padding: 1rem 3rem;
+}
+.navbar img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+.navbar ul {
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+}
+
+.navbar ul,
+li,
+a {
+  text-decoration: none;
+  list-style: none;
+  font-size: 2rem;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+}
+
+/* navbar hover */
+
+.navbar a:hover {
+  background-color: brown;
+  border-radius: 10px;
+  color: white;
+}
