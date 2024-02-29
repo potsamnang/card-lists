@@ -24,7 +24,7 @@ const data = [
   {
     id: 1,
     img: p1,
-    name: "Pot Samnang",
+    name: "Pot Toch",
     detail: "IT",
   },
   {
