@@ -1,7 +1,8 @@
 import React from "react";
+import Html from "../components/PageHome/PageHtml/Html";
 
 const Home = () => {
-  return <div>Home</div>;
+  return <Html />;
 };
 
 export default Home;
